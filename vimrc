@@ -1,3 +1,4 @@
+"  Configuration for vundle:
 set nocompatible              " be iMproved, required
 filetype off                  " required <<========== We can turn it on later
 
